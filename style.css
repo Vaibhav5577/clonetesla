@@ -26,8 +26,8 @@
 
 }
 .btn1{
-    background-color: black;
-     color: white;
+    background-color: rgb(206, 19, 19);
+     color: rgb(162, 230, 38);
      padding: 1rem;
      margin: 1rem;
      width: 20rem;
@@ -37,8 +37,8 @@
 
 }
 .btn2{
-    background-color:white;
-    color: black;
+    background-color:rgb(226, 152, 175);
+    color: rgb(14, 4, 4);
     padding: 1rem;
     margin: 1rem;
     width: 20rem;
